@@ -10,7 +10,6 @@ This project aims to provide a straightforward API for shortening long URLs into
 
 - **URL Shortening:** Converts long URLs into short, unique links.
 - **Redirection:** Redirects users from short links to their corresponding long URLs.
-- **Statistics:** Tracks usage statistics, such as click counts, for shortened links.
 
 ## Technologies Used
 
