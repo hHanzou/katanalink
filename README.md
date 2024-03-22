@@ -1,4 +1,4 @@
-# Link Shortener API
+# katanalink (Link Shortener API)
 
 This is a simple API project for link shortening, built using Node.js, JavaScript, and MongoDB.
 
